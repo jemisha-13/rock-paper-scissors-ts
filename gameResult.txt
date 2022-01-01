@@ -1,0 +1,35 @@
+
+-----Rock Paper Scissors-----
+
+Playing 5 Rounds...
+
+Round 1
+Player 1 plays Rock
+Player 2 plays Rock
+Players Drew 
+
+Round 2
+Player 1 plays Paper
+Player 2 plays Paper
+Players Drew 
+
+Round 3
+Player 1 plays Rock
+Player 2 plays Paper
+Player 2 wins
+
+Round 4
+Player 1 plays Rock
+Player 2 plays Paper
+Player 2 wins
+
+Round 5
+Player 1 plays Rock
+Player 2 plays Scissors
+Player 1 wins
+
+Final Game Result
+Player 2 Wins
+Total Wins Of Player1 : 9
+Total Wins Of Player2 : 15
+Total draw : -19
